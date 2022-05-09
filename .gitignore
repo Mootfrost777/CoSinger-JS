@@ -1,0 +1,8 @@
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+package.json
+package-lock.json
+config.json
+node_modules/
+.idea/
