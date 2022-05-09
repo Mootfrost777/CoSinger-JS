@@ -17,6 +17,7 @@ You also need to install ffmpeg: <br/>
 Windows: https://ffmpeg.org/download.html#build-windows. Just copy all .exe files to project directory. <br/>
 Linux: ```npm install ffmpeg```.
 
+Then create new bot in https://discord.com/developers/applications and paste token to config file.
 
 # Config
 ```
